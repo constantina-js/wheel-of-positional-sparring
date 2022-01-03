@@ -1,0 +1,80 @@
+[
+    {
+        "positionName": "Taking the Back AKA Back Mount",
+        "description": {
+            "offense": "Person attacking takes ther back with seatbelt grip and hooks in, and must retain dominant position and/or go for submission.",
+            "defense": "Person defending must escape from back mount and come up."
+        }
+    },
+    {
+        "positionName": "Mount",
+        "description": {
+            "offense": "Person attacking mounts the person defending, and must retain dominant position and/or go for submission",
+            "defense": "Person defending must escape mount, sweep, or submit."
+        }
+    },
+    {
+        "positionName": "Knee on Belly",
+        "description": {
+            "offense": "Person attacking must transition from knee on belly to a more secure, dominant position, and go for a submission",
+            "defense": "Person defending must prevent the attacker from transitioning, and they themselves must transition to a better position (sweep, mount, take the back, etc)"
+        }
+    },
+    {
+        "positionName": "Side Control",
+        "description": {
+            "offense": "Person attacking secures side control (can either start from transitional side control or 100 kilos), and goes for a submission",
+            "defense": "Person defending must escape side control. Bonus points if they can sweep or go for a submission."
+        }
+    },
+    {
+        "positionName": "Open Guard",
+        "description": {
+            "offense": "Person attacking is trying to pass the defender's open guard.",
+            "defense": "Person defending has the attacker in their open guard, and must transition to a more offensive position and/or hit a submission."
+        }
+    },
+    {
+        "positionName": "Closed Guard",
+        "description": {
+            "offense": "Person attacking puts the defending person in their closed guard and must sweep or get the submission",
+            "defense": "Person defending must break the attacking person's guard."
+        }
+    },
+    {
+        "positionName": "Choose your Own Adventure (Offense's Choice)",
+        "description": {
+            "offense": "Offense's choice - choose a position in which you have the advantage",
+            "defense": "Must defend from whichever position the attacking person chooses"
+        }
+    },
+    {
+        "positionName": "Choose your Own Adventure (Defense's Choice)",
+        "description": {
+            "offense": "Must attack from whichever position the defending person chooses",
+            "defense": "Defense's choice - choose a position in which you have a disadvantage"
+        }
+    },
+    {
+        "positionName": "Half Guard",
+        "description": {
+            "offense": "Person attacking has the defending person in their half guard. Can choose which variation of half guard they play. Must transition to a dominant position or get the submission",
+            "defense": "Person defending must break the attacking person's half guard and pass"
+        }
+    },
+    {
+        "positionName": "50/50",
+        "description": {
+            "offense": "You do you but if you blow your knees out it's not my problem",
+            "defense": "You do you but if you blow your knees out it's not my problem"
+        }
+    },
+    {
+        "positionName": "Knee Shield",
+        "description": {
+            "offense": "Person attacking is trying to pass the defending person's knee shield.",
+            "defense": "Person defending must prevent the attacker from passing guard, and must go to a more advantageous position (or get a sub)"
+        }
+    }
+
+]
