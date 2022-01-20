@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wheel-of-positional-sparring/static/css/main.eba08388.css",
+    "main.js": "/wheel-of-positional-sparring/static/js/main.75febdcd.js",
+    "static/js/787.3e55f109.chunk.js": "/wheel-of-positional-sparring/static/js/787.3e55f109.chunk.js",
+    "index.html": "/wheel-of-positional-sparring/index.html",
+    "main.eba08388.css.map": "/wheel-of-positional-sparring/static/css/main.eba08388.css.map",
+    "main.75febdcd.js.map": "/wheel-of-positional-sparring/static/js/main.75febdcd.js.map",
+    "787.3e55f109.chunk.js.map": "/wheel-of-positional-sparring/static/js/787.3e55f109.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eba08388.css",
+    "static/js/main.75febdcd.js"
+  ]
+}
